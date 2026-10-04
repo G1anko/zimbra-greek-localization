@@ -1,0 +1,37 @@
+[
+  {
+    "bundle": "ZmMsg",
+    "translated": 1334,
+    "base_keys": 3981
+  },
+  {
+    "bundle": "ZhMsg",
+    "translated": 510,
+    "base_keys": 1863
+  },
+  {
+    "bundle": "AjxMsg",
+    "translated": 68,
+    "base_keys": 247
+  },
+  {
+    "bundle": "ZMsg",
+    "translated": 124,
+    "base_keys": 124
+  },
+  {
+    "bundle": "I18nMsg",
+    "translated": 42,
+    "base_keys": 73
+  },
+  {
+    "bundle": "ZmKeys",
+    "translated_descriptions": 164,
+    "description_keys": 164
+  },
+  {
+    "bundle": "AjxKeys",
+    "translated_descriptions": 50,
+    "description_keys": 50
+  }
+]
