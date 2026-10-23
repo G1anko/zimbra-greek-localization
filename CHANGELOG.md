@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- Added 6 Greek strings for the error-report dialog and related status messages.
+- Translation coverage is now 2,084 message-bundle entries.
+
 ## v1.0.0 — 2026-10-04
 
 First public release.
