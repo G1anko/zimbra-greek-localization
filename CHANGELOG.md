@@ -4,7 +4,7 @@
 
 - Added 6 Greek strings for the error-report dialog and related status messages.
 - Added 15 Greek strings for compose validation and related UI, including the missing-subject warning.
-- Translation coverage is now 2,099 message-bundle entries.
+- Added 10 Greek strings for folder sync/notifications and external-image prompts.\n- Translation coverage is now 2,109 message-bundle entries.
 
 ## v1.0.0 — 2026-10-04
 
