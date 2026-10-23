@@ -123,4 +123,4 @@ sudo -iu zimbra zmmailboxdctl restart
 
 ### Current development
 
-The main branch now also includes Greek strings for the Classic error-report dialog, compose validation warnings, and related status messages.
+The main branch now also includes Greek strings for the Classic error-report dialog, compose validation warnings, folder sync/notification messages, external-image prompts, and related status messages.
