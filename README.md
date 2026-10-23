@@ -119,3 +119,8 @@ sudo -iu zimbra zmmailboxdctl restart
 ```
 
 Αν εντοπίσετε αγγλικό κείμενο ενώ είναι επιλεγμένα τα Ελληνικά, ανοίξτε issue με screenshot και το σημείο όπου εμφανίζεται.
+
+
+### Current development
+
+The main branch now also includes Greek strings for the Classic error-report dialog and its status messages.
