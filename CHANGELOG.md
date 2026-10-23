@@ -3,7 +3,8 @@
 ## Unreleased
 
 - Added 6 Greek strings for the error-report dialog and related status messages.
-- Translation coverage is now 2,084 message-bundle entries.
+- Added 15 Greek strings for compose validation and related UI, including the missing-subject warning.
+- Translation coverage is now 2,099 message-bundle entries.
 
 ## v1.0.0 — 2026-10-04
 
