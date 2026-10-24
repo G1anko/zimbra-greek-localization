@@ -106,7 +106,9 @@ Please do not include passwords, email contents or other sensitive data in scree
 
 Ανεπίσημη ελληνική μετάφραση (`el`) για το **Zimbra Classic Web Client 10.1.x**.
 
-Η έκδοση **v1.0.0** είναι η πρώτη δημόσια έκδοση του έργου και βασίζεται στη σωρευτική μετάφραση που δοκιμάστηκε σε πραγματική εγκατάσταση Zimbra 10.1.18 και 10.1.20.
+Η τρέχουσα έκδοση **v1.1.0** επεκτείνει σημαντικά την ελληνική τοπικοποίηση του Classic Web Client και περιλαμβάνει **6.092 εγγραφές** στα βασικά message bundles, μαζί με πλήρη έλεγχο για keys, placeholders και markup.
+
+Η μετάφραση έχει δοκιμαστεί σε πραγματική εγκατάσταση Zimbra 10.1.18 και 10.1.20.
 
 Για εγκατάσταση:
 
@@ -120,9 +122,4 @@ sudo python3 install.py
 sudo -iu zimbra zmmailboxdctl restart
 ```
 
-Αν εντοπίσετε αγγλικό κείμενο ενώ είναι επιλεγμένα τα Ελληνικά, ανοίξτε issue με screenshot και το σημείο όπου εμφανίζεται.
-
-
-### Current release
-
-Version **v1.1.0** expands the Greek Classic Web Client localization to **6,092 message-bundle entries** and completes the comprehensive audited translation pass while retaining strict key, placeholder and markup validation.
+Αν εντοπίσετε αγγλικό κείμενο ενώ είναι επιλεγμένα τα Ελληνικά, ανοίξτε issue με screenshot, το σημείο όπου εμφανίζεται και την έκδοση Zimbra που χρησιμοποιείτε.
