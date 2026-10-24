@@ -15,13 +15,15 @@ The installer performs strict source checks before changing files. If the instal
 
 ## Coverage
 
-- Message bundle entries translated: **2,300**
+- Message bundle entries included/localized: **6,092**
+- Audited Classic rows classified `Translate`: **3,978/3,982** present
 - Keyboard shortcut descriptions: **214/214**
 - Search Highlighter Zimlet strings: **4/4**
 - Main bundles included: `ZmMsg`, `ZhMsg`, `AjxMsg`, `ZMsg`, `I18nMsg`
 - Shortcut bundles included: `ZmKeys`, `AjxKeys`
+- Four deliberate source fallbacks remain: `vCard`, `MO_AB_email`, `MO_AB_email2`, `MO_AB_email3`
 
-This is a substantial but still evolving localization. Some Zimbra strings may remain in English and can be added in later releases.
+The audited Classic Web Client scope is now near-complete. Technical / do-not-translate values intentionally inherit from the source where appropriate. Other bundle families such as `ZtMsg`, `ZaMsg`, `ZsMsg`, branding bundles and Zimlet-specific bundles remain separate localization scopes.
 
 ## Install / upgrade
 
@@ -121,6 +123,6 @@ sudo -iu zimbra zmmailboxdctl restart
 Αν εντοπίσετε αγγλικό κείμενο ενώ είναι επιλεγμένα τα Ελληνικά, ανοίξτε issue με screenshot και το σημείο όπου εμφανίζεται.
 
 
-### Current development
+### Current release
 
-The main branch now also includes Greek strings for the Classic error-report dialog, compose validation warnings, folder sync/notification messages, external-image prompts, and a reviewed Core Mail / Compose batch. Current message-bundle coverage: **2,300 translated entries**.
+Version **v1.1.0** expands the Greek Classic Web Client localization to **6,092 message-bundle entries** and completes the comprehensive audited translation pass while retaining strict key, placeholder and markup validation.
