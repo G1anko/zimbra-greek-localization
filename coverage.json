@@ -1,17 +1,17 @@
 [
   {
     "bundle": "ZmMsg",
-    "translated": 1522,
+    "translated": 3879,
     "base_keys": 3981
   },
   {
     "bundle": "ZhMsg",
-    "translated": 544,
+    "translated": 1844,
     "base_keys": 1863
   },
   {
     "bundle": "AjxMsg",
-    "translated": 68,
+    "translated": 183,
     "base_keys": 247
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "bundle": "I18nMsg",
-    "translated": 42,
+    "translated": 62,
     "base_keys": 73
   },
   {
