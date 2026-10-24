@@ -2,12 +2,19 @@
 
 ## Unreleased
 
-- Added 6 Greek strings for the error-report dialog and related status messages.
-- Added 15 Greek strings for compose validation and related UI, including the missing-subject warning.
-- Added 10 Greek strings for folder sync/notifications and external-image prompts.
+## v1.1.0 — 2026-10-25
 
-- Added 191 reviewed Greek Core Mail / Compose strings (163 ZmMsg, 28 ZhMsg).
-- Translation coverage is now 2,300 message-bundle entries.
+Comprehensive Greek Classic Web Client localization release.
+
+Highlights:
+- Expanded the five main message bundles to **6,092 localized entries**.
+- Coverage by bundle: ZmMsg 3,879/3,981; ZhMsg 1,844/1,863; AjxMsg 183/247; ZMsg 124/124; I18nMsg 62/73.
+- Completed the audited Classic translation pass: 3,978/3,982 rows classified `Translate` are present in the Greek bundles.
+- Kept four deliberate source fallbacks: `vCard`, `MO_AB_email`, `MO_AB_email2`, `MO_AB_email3`.
+- Preserved the complete 214/214 keyboard-shortcut descriptions and Search Highlighter Zimlet localization.
+- Added Greek locale technical overrides for EUR, Monday-first week layout, and Greek decimal/grouping separators.
+- Validation passed with 0 duplicate keys, 0 placeholder mismatches, 0 HTML/markup mismatches, 0 malformed Unicode escapes, 0 malformed property lines, and 0 translated keys missing from the pinned upstream source snapshots.
+- Includes the post-v1.0.0 error-report, compose validation, folder sync/notification, external-image, and reviewed Core Mail / Compose additions.
 
 ## v1.0.0 — 2026-10-04
 
