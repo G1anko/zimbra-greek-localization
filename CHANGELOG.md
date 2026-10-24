@@ -4,7 +4,10 @@
 
 - Added 6 Greek strings for the error-report dialog and related status messages.
 - Added 15 Greek strings for compose validation and related UI, including the missing-subject warning.
-- Added 10 Greek strings for folder sync/notifications and external-image prompts.\n- Translation coverage is now 2,109 message-bundle entries.
+- Added 10 Greek strings for folder sync/notifications and external-image prompts.
+
+- Added 191 reviewed Greek Core Mail / Compose strings (163 ZmMsg, 28 ZhMsg).
+- Translation coverage is now 2,300 message-bundle entries.
 
 ## v1.0.0 — 2026-10-04
 
